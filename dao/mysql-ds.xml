@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<connection>
+	<host>localhost:3306</host>
+	<schema>voting</schema>
+	<user>root</user>
+	<password>root</password>
+</connection>

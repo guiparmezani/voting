@@ -1,0 +1,3 @@
+- Resultados menu principal do Participante
+- Votações estão aceitando mais de 5 opções
+- Botão DEL das opções não está funcionando
